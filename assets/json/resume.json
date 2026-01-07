@@ -1,200 +1,241 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Esteban Rivera",
+    "label": "PhD Student working in efficient computer vision for autonomous driving",
+    "email": "es.rivera1202@gmail.com",
+    "phone": "+49 0176 841 598 66",
+    "url": "",
+    "summary": "I am a PhD Student working in efficient computer vision for autonomous driving. I have experience transforming research ideas into real projects.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Munich",
+      "countryCode": "DE",
+      "region": "Germany"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Technische Universität München",
+      "position": "Research Associate",
+      "startDate": "2022-10",
+      "endDate": "Present",
+      "summary": "EDGAR Project: Autonomous Driving for urban traffic",
+      "highlights": [
+        "Responsible for Camera/LiDAR-based object detection",
+        "Trained 3D detection module led to 0 disengagements in 20KM urban route",
+        "Recorded and prepared a 20TB database of rosbags and sensor data for autonomous driving",
+        "Developed an autolabeling pipeline for 3D pointclouds based on Pytorch"
+      ],
+      "location": "Munich, Germany"
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Appgate Inc.",
+      "position": "Machine learning Scientist",
+      "startDate": "2019-11",
+      "endDate": "2022-08",
+      "summary": "Developed deep learning-based projects for cybersecurity applications implemented on thousands of devices",
+      "highlights": [
+        "Biometric authentication",
+        "Biometric spoofing detection",
+        "VPN spoofing detection"
+      ],
+      "location": "Bogota, Colombia"
+    },
+    {
+      "name": "Forschung Zentrum Informatik",
+      "position": "Research assistant",
+      "startDate": "2017-04",
+      "endDate": "2019-10",
+      "summary": "Developed a driving scenario representation for scalable data analytics with Neural Networks",
+      "location": "Karlsruhe, Germany"
+    },
+    {
+      "name": "IAV GmbH",
+      "position": "Intern",
+      "startDate": "2018-09",
+      "endDate": "2019-03",
+      "summary": "Deep Learning for object recognition",
+      "highlights": [
+        "Developed deep-learning-based object detector and implemented it into an automated tractor"
+      ],
+      "location": "Gifhorn, Germany"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Technical University of Munich",
+      "url": "",
+      "area": "Data-efficient perception for autonomous driving",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "startDate": "2022-09",
+      "endDate": "Present",
+      "score": "",
+      "courses": [
+        "VLMs for automated scenario classification and automated pointcloud labeling",
+        "Active learning for 3D perception"
+      ]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Karlsruhe Institute of Technology",
+      "url": "",
+      "area": "Electronic Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2017-04",
+      "endDate": "2019-10",
+      "score": "1.7"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "institution": "Universidad de los Andes",
+      "url": "",
+      "area": "Electronic Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2011-01",
+      "endDate": "2015-12",
+      "score": "4.16/5.0",
+      "courses": [
+        "Ranking: Top 25%"
+      ]
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Universidad de los Andes",
+      "url": "",
+      "area": "Physics",
+      "studyType": "B.Sc.",
+      "startDate": "2012-01",
+      "endDate": "2016-06",
+      "score": "4.16/5.0",
+      "courses": [
+        "Ranking: Top 25%"
+      ]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Heal3d: Heuristical-enhanced active learning for 3d object detection",
+      "publisher": "CVPRW 2025, LXCV",
+      "releaseDate": "2025-06",
+      "summary": "E. Rivera, S. Prabhakaran, and M. Lienkamp"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "V3lma: Visual 3d-enhanced language model for autonomous driving models",
+      "publisher": "CVPRW 2025, DriveX",
+      "releaseDate": "2025-06",
+      "summary": "E. Rivera, J. Lübberstedt, N. Uhlemann, and M. Lienkamp"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Inconsistency-based active learning for lidar object detection",
+      "publisher": "IEEE Intelligent Vehicles Symposium (IV)",
+      "releaseDate": "2025-06",
+      "summary": "E. Rivera, L. Stratil, and M. Lienkamp"
+    },
+    {
+      "name": "Scenario understanding of traffic scenes through large visual language models",
+      "publisher": "WACVW 2025, LLVLM-AD Workshop",
+      "releaseDate": "2025-02",
+      "summary": "E. Rivera, J. Lübberstedt, N. Uhlemann, and M. Lienkamp"
+    },
+    {
+      "name": "Camera-lidar inconsistency analysis for active learning in object detection",
+      "publisher": "IEEE Intelligent Vehicles Symposium (IV)",
+      "releaseDate": "2024-04",
+      "summary": "E. Rivera, A. Serra, and M. Lienkamp"
+    },
+    {
+      "name": "Quantifying the lidar sim-to-real domain shift: A detailed investigation using object detectors and analyzing point clouds at target-level",
+      "publisher": "IEEE Transactions on Intelligent Vehicles",
+      "releaseDate": "2023-03",
+      "summary": "S. Huch, L. Scalerandi, E. Rivera, and M. Lienkamp"
+    },
+    {
+      "name": "Adversarial attacks against mouse-and keyboard-based biometric authentication: Black-box versus domain-specific techniques",
+      "publisher": "International Journal of Information Security",
+      "releaseDate": "2022-06",
+      "summary": "C. Lopez, J. Solano, E. Rivera, L. Tengana, and M. Ochoa"
+    },
+    {
+      "name": "A siamese neural network for scalable behavioral biometrics authentication",
+      "publisher": "International Conference on Applied Cryptography and Network Security (ACNS)",
+      "releaseDate": "2022-06",
+      "summary": "J. Solano, E. Rivera, L. Tengana, C. Lopez, and M. Ochoa"
+    },
+    {
+      "name": "Dynamic face authentication systems: Deep learning verification for camera close-up and head rotation paradigms",
+      "publisher": "Computers and Security",
+      "releaseDate": "2022-04",
+      "summary": "E. Rivera, A. Castelblanco, L. Tengana, J. Solano, C. Lopez, and M. Ochoa"
+    },
+    {
+      "name": "Keyboard and mouse based behavioral biometrics to enhance password-based login authentication using machine learning model",
+      "publisher": "US Patent (Application number: 16798084)",
+      "releaseDate": "2021-08",
+      "summary": "Patent"
+    },
+    {
+      "name": "Centy: Scalable server-side web integrity verification system based on fuzzy hashes",
+      "publisher": "Detection of Intrusions and Malware, and Vulnerability Assessment: DIMVA",
+      "releaseDate": "2021-07",
+      "summary": "L. Tengana, J. Solano, A. Castelblanco, E. Rivera, C. Lopez, and M. Ochoa"
+    },
+    {
+      "name": "Risk-based authentication based on network latency profiling",
+      "publisher": "ACM Workshop on Artificial Intelligence and Security (AlSec'20)",
+      "releaseDate": "2020-11",
+      "summary": "E. Rivera, L. Tengana, J. Solano, A. Castelblanco, C. López, and M. Ochoa"
+    },
+    {
+      "name": "Scrap: Synthetically composed replay attacks vs. adversarial machine learning attacks against mouse-based biometric authentication",
+      "publisher": "ACM Workshop on Artificial Intelligence and Security (AlSec '20)",
+      "releaseDate": "2020-11",
+      "summary": "J. Solano, C. Lopez, E. Rivera, A. Castelblanco, L. Tengana, and M. Ochoa"
+    },
+    {
+      "name": "A video-based vehicle counting system using an embedded device in realistic traffic conditions",
+      "publisher": "IEEE 6th World Forum on Internet of Things (WF-IoT)",
+      "releaseDate": "2020-06",
+      "summary": "M. Lücking, E. Rivera, L. Kohout, C. Zimmermann, D. Polad, and W. Stork"
+    },
+    {
+      "name": "Machine learning techniques for identity document verification in uncontrolled environments: A case study",
+      "publisher": "Mexican Conference in Patter Recognition (MCPR)",
+      "releaseDate": "2020-06",
+      "summary": "A. Castelblanco, J. Solano, C. Lopez, E. Rivera, L. Tengana, and M. Ochoa"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "English (C1)",
+        "German (C1)",
+        "Spanish (Native)"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Programming",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "Packages",
+      "keywords": [
+        "Pytorch",
+        "MMDetection3D",
+        "ROS2",
+        "Docker",
+        "Rerun",
+        "OpenPCDet",
+        "Keras",
+        "Pandas",
+        "OpenCV"
+      ]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Services",
+      "keywords": [
+        "AWS",
+        "Slurm"
+      ]
     }
   ]
 }
