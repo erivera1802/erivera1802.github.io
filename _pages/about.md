@@ -6,7 +6,7 @@ subtitle: PhD Student on efficient perception for Autonomous Driving. Institute 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Esteban_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institute of Automotive Engineering</p>
@@ -21,13 +21,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I like to work on things that move by themselves. Thats why I studied Electronic Engineering and Physics at Universidad de los Andes in Bogotá, Colombia. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Then I arrived in Karlsruhe, Germany for my M.Sc. in Electronic Engineering and information technology to keep working in Computer Vision and Control Engineering. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before COVID, i decided I wanted to go back to Colombia, so I started working in a cybersecurity company. My job was to develop ML-based authentication and antispoofing systems.
+
+Since them, I have been working in Munich in Autonomous Driving. My main project was the perception module of an autonomous vehicle (AKA Edgar). We manage to drive more than 20KM without disengagements or hurting someone.
+
+Other than that, I like to play Football (The real one, played with the feet), go to the GYM and take pictures with my camera.

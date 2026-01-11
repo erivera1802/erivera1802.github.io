@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - erivera1802
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - erivera1802/edgar2Nuscenes
+  - erivera1802/visualization_nuscenes
+  - erivera1802/automatedPointcloudLabeling
