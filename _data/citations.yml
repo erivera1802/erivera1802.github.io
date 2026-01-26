@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-01-26'
 papers:
   W1CvMSUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: 'To New Beginnings: A Survey of Unified Perception in Autonomous Vehicle Software'
     year: '2025'
   W1CvMSUAAAAJ:Se3iqnhoufwC:
-    citations: 9
+    citations: 10
     title: Scenario Understanding of Traffic Scenes Through Large Visual Language Models
     year: '2025'
   W1CvMSUAAAAJ:Tyk-4Ss8FVUC:
@@ -58,7 +58,7 @@ papers:
     title: "Radiograf\xEDa de Monserrate mediante muones"
     year: '2016'
   W1CvMSUAAAAJ:YsMSGLbcyi4C:
-    citations: 3
+    citations: 4
     title: A Siamese Neural Network for Scalable Behavioral Biometrics Authentication
     year: '2022'
   W1CvMSUAAAAJ:_FxGoFyzp5QC:
@@ -94,7 +94,7 @@ papers:
     title: 'SCRAP: Synthetically Composed Replay Attacks vs. Adversarial Machine Learning Attacks against Mouse-based Biometric Authentication'
     year: '2020'
   W1CvMSUAAAAJ:ufrVoPGSRksC:
-    citations: 4
+    citations: 5
     title: 'Adversarial attacks against mouse-and keyboard-based biometric authentication: black-box versus domain-specific techniques'
     year: '2023'
   W1CvMSUAAAAJ:zYLM7Y9cAGgC:
