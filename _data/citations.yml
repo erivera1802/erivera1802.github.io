@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-02'
 papers:
   W1CvMSUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -98,6 +98,6 @@ papers:
     title: 'Adversarial attacks against mouse-and keyboard-based biometric authentication: black-box versus domain-specific techniques'
     year: '2023'
   W1CvMSUAAAAJ:zYLM7Y9cAGgC:
-    citations: 11
+    citations: 12
     title: 'Dynamic face authentication systems: Deep learning verification for camera close-Up and head rotation paradigms'
     year: '2022'
