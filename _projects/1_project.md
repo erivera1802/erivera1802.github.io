@@ -20,7 +20,6 @@ To tackle a lack of labeling budget, I engineered a solution: I built an auto-la
 
 I am responsible for the detections you see in the right side.
 
-
 Here is a description of actually what happens in the vehicle:
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">

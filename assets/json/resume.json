@@ -34,11 +34,7 @@
       "startDate": "2019-11",
       "endDate": "2022-08",
       "summary": "Developed deep learning-based projects for cybersecurity applications implemented on thousands of devices",
-      "highlights": [
-        "Biometric authentication",
-        "Biometric spoofing detection",
-        "VPN spoofing detection"
-      ],
+      "highlights": ["Biometric authentication", "Biometric spoofing detection", "VPN spoofing detection"],
       "location": "Bogota, Colombia"
     },
     {
@@ -55,9 +51,7 @@
       "startDate": "2018-09",
       "endDate": "2019-03",
       "summary": "Deep Learning for object recognition",
-      "highlights": [
-        "Developed deep-learning-based object detector and implemented it into an automated tractor"
-      ],
+      "highlights": ["Developed deep-learning-based object detector and implemented it into an automated tractor"],
       "location": "Gifhorn, Germany"
     }
   ],
@@ -70,10 +64,7 @@
       "startDate": "2022-09",
       "endDate": "Present",
       "score": "",
-      "courses": [
-        "VLMs for automated scenario classification and automated pointcloud labeling",
-        "Active learning for 3D perception"
-      ]
+      "courses": ["VLMs for automated scenario classification and automated pointcloud labeling", "Active learning for 3D perception"]
     },
     {
       "institution": "Karlsruhe Institute of Technology",
@@ -92,9 +83,7 @@
       "startDate": "2011-01",
       "endDate": "2015-12",
       "score": "4.16/5.0",
-      "courses": [
-        "Ranking: Top 25%"
-      ]
+      "courses": ["Ranking: Top 25%"]
     },
     {
       "institution": "Universidad de los Andes",
@@ -104,9 +93,7 @@
       "startDate": "2012-01",
       "endDate": "2016-06",
       "score": "4.16/5.0",
-      "courses": [
-        "Ranking: Top 25%"
-      ]
+      "courses": ["Ranking: Top 25%"]
     }
   ],
   "publications": [
@@ -204,38 +191,19 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [
-        "English (C1)",
-        "German (C1)",
-        "Spanish (Native)"
-      ]
+      "keywords": ["English (C1)", "German (C1)", "Spanish (Native)"]
     },
     {
       "name": "Programming",
-      "keywords": [
-        "Python"
-      ]
+      "keywords": ["Python"]
     },
     {
       "name": "Packages",
-      "keywords": [
-        "Pytorch",
-        "MMDetection3D",
-        "ROS2",
-        "Docker",
-        "Rerun",
-        "OpenPCDet",
-        "Keras",
-        "Pandas",
-        "OpenCV"
-      ]
+      "keywords": ["Pytorch", "MMDetection3D", "ROS2", "Docker", "Rerun", "OpenPCDet", "Keras", "Pandas", "OpenCV"]
     },
     {
       "name": "Services",
-      "keywords": [
-        "AWS",
-        "Slurm"
-      ]
+      "keywords": ["AWS", "Slurm"]
     }
   ]
 }
