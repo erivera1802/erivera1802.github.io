@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -70,20 +70,27 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-my-phd-at-the-institute-of-automotive-engineering-in-tum",
+          title: 'Started my PhD at the institute of Automotive Engineering in TUM',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-accepted-at-the-iv-2024",
+          title: 'One paper accepted at the IV 2024',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-two-papers-accepted-at-cvprw2025",
+          title: 'Two papers accepted at CVPRW2025',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "news-one-paper-accepted-at-iv2025",
+          title: 'One paper accepted at IV2025',
+          description: "",
+          section: "News",},{id: "news-edgar-at-the-iaa-2025-in-munich",
+          title: 'EDGAR at the IAA 2025 in Munich!',
+          description: "",
+          section: "News",},{id: "news-arrived-in-delft-for-a-research-exchange-in-the-intellligent-vehicles-group-with-prof-holger-caesar",
+          title: 'Arrived in Delft for a research exchange in the Intellligent Vehicles Group with...',
+          description: "",
+          section: "News",},{id: "projects-edgar",
+          title: 'EDGAR',
+          description: "Autonomous driving in urban scenarios",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
