@@ -26,12 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I like to work on things that move by themselves. Thats why I studied Electronic Engineering and Physics at Universidad de los Andes in Bogotá, Colombia. 
+I have a passion for autonomous systems. It started with my dual degree in Electronic Engineering and Physics in Bogotá and led me to Karlsruhe, Germany, where I specialized in Computer Vision and Control Engineering.
 
-Then I arrived in Karlsruhe, Germany for my M.Sc. in Electronic Engineering and information technology to keep working in Computer Vision and Control Engineering. 
+I briefly returned to Colombia pre-COVID to build ML-based biometric security systems, but I’ve since settled in Munich to work on self-driving technology. Most recently, I worked on the perception stack for 'Edgar' (our autonomous vehicle), achieving a milestone of 20km+ of autonomous driving with zero disengagements.
 
-Before COVID, i decided I wanted to go back to Colombia, so I started working in a cybersecurity company. My job was to develop ML-based authentication and antispoofing systems.
-
-Since them, I have been working in Munich in Autonomous Driving. My main project was the perception module of an autonomous vehicle (AKA Edgar). We manage to drive more than 20KM without disengagements or hurting someone.
-
-Other than that, I like to play Football (The real one, played with the feet), go to the GYM and take pictures with my camera.
+Outside of work: Football (the actual kind), gym, and photography.
