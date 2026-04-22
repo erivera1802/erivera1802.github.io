@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-22'
 papers:
   W1CvMSUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -58,7 +58,7 @@ papers:
     title: "Radiograf\xEDa de Monserrate mediante muones"
     year: '2016'
   W1CvMSUAAAAJ:YsMSGLbcyi4C:
-    citations: 4
+    citations: 5
     title: A Siamese Neural Network for Scalable Behavioral Biometrics Authentication
     year: '2022'
   W1CvMSUAAAAJ:_FxGoFyzp5QC:
@@ -82,7 +82,7 @@ papers:
     title: 'Centy: Scalable Server-Side Web Integrity Verification System Based on Fuzzy Hashes'
     year: '2021'
   W1CvMSUAAAAJ:roLk4NBRz8UC:
-    citations: 3
+    citations: 4
     title: A Siamese Neural Network for Behavioral Biometrics Authentication
     year: '2021'
   W1CvMSUAAAAJ:u-x6o8ySG0sC:
@@ -90,7 +90,7 @@ papers:
     title: Risk-based Authentication Based on Network Latency Profiling
     year: '2020'
   W1CvMSUAAAAJ:u5HHmVD_uO8C:
-    citations: 19
+    citations: 21
     title: 'SCRAP: Synthetically Composed Replay Attacks vs. Adversarial Machine Learning Attacks against Mouse-based Biometric Authentication'
     year: '2020'
   W1CvMSUAAAAJ:ufrVoPGSRksC:
