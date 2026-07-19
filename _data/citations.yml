@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-06-22'
 papers:
   W1CvMSUAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,11 +10,11 @@ papers:
     title: A video-based vehicle counting system using an embedded device in realistic traffic conditions
     year: '2020'
   W1CvMSUAAAAJ:5nxA0vEk-isC:
-    citations: 3
+    citations: 8
     title: 'V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving'
     year: '2025'
   W1CvMSUAAAAJ:8k81kl-MbHgC:
-    citations: 1
+    citations: 3
     title: 'VESPA: Towards un (Human) supervised Open-World Pointcloud Labeling for Autonomous Driving'
     year: '2025'
   W1CvMSUAAAAJ:9yKSN-GCB0IC:
@@ -22,11 +22,11 @@ papers:
     title: A few-shot practical behavioral biometrics model for login authentication in web applications
     year: '2020'
   W1CvMSUAAAAJ:IjCSPb-OGe4C:
-    citations: 10
+    citations: 11
     title: Keyboard and mouse based behavioral biometrics to enhance password-based login authentication using machine learning model
     year: '2022'
   W1CvMSUAAAAJ:LkGwnXOMwfcC:
-    citations: 46
+    citations: 53
     title: 'EDGAR: An Autonomous Driving Research Platform--From Feature Development to Real-World Application'
     year: '2023'
   W1CvMSUAAAAJ:MXK_kJrjxJIC:
@@ -34,7 +34,7 @@ papers:
     title: 'To New Beginnings: A Survey of Unified Perception in Autonomous Vehicle Software'
     year: '2025'
   W1CvMSUAAAAJ:Se3iqnhoufwC:
-    citations: 10
+    citations: 13
     title: Scenario Understanding of Traffic Scenes Through Large Visual Language Models
     year: '2025'
   W1CvMSUAAAAJ:Tyk-4Ss8FVUC:
@@ -54,27 +54,27 @@ papers:
     title: 'S2R-DAD: Sim-to-Real Distribution-Aligned Dataset'
     year: Unknown Year
   W1CvMSUAAAAJ:Y0pCki6q_DkC:
-    citations: 1
+    citations: 2
     title: "Radiograf\xEDa de Monserrate mediante muones"
     year: '2016'
   W1CvMSUAAAAJ:YsMSGLbcyi4C:
-    citations: 4
+    citations: 5
     title: A Siamese Neural Network for Scalable Behavioral Biometrics Authentication
     year: '2022'
   W1CvMSUAAAAJ:_FxGoFyzp5QC:
-    citations: 2
+    citations: 3
     title: Camera-LiDAR Inconsistency Analysis for Active Learning in Object Detection
     year: '2024'
   W1CvMSUAAAAJ:d1gkVwhDpl0C:
-    citations: 45
+    citations: 49
     title: 'Machine learning techniques for identity document verification in uncontrolled environments: A case study'
     year: '2020'
   W1CvMSUAAAAJ:eQOLeE2rZwMC:
-    citations: 33
+    citations: 38
     title: 'Quantifying the lidar sim-to-real domain shift: A detailed investigation using object detectors and analyzing point clouds at target-level'
     year: '2023'
   W1CvMSUAAAAJ:hqOjcs7Dif8C:
-    citations: 0
+    citations: 1
     title: Inconsistency-based Active Learning for LiDAR Object Detection
     year: '2025'
   W1CvMSUAAAAJ:qjMakFHDy7sC:
@@ -82,7 +82,7 @@ papers:
     title: 'Centy: Scalable Server-Side Web Integrity Verification System Based on Fuzzy Hashes'
     year: '2021'
   W1CvMSUAAAAJ:roLk4NBRz8UC:
-    citations: 2
+    citations: 4
     title: A Siamese Neural Network for Behavioral Biometrics Authentication
     year: '2021'
   W1CvMSUAAAAJ:u-x6o8ySG0sC:
@@ -90,14 +90,14 @@ papers:
     title: Risk-based Authentication Based on Network Latency Profiling
     year: '2020'
   W1CvMSUAAAAJ:u5HHmVD_uO8C:
-    citations: 18
+    citations: 21
     title: 'SCRAP: Synthetically Composed Replay Attacks vs. Adversarial Machine Learning Attacks against Mouse-based Biometric Authentication'
     year: '2020'
   W1CvMSUAAAAJ:ufrVoPGSRksC:
-    citations: 5
+    citations: 8
     title: 'Adversarial attacks against mouse-and keyboard-based biometric authentication: black-box versus domain-specific techniques'
     year: '2023'
   W1CvMSUAAAAJ:zYLM7Y9cAGgC:
-    citations: 12
+    citations: 16
     title: 'Dynamic face authentication systems: Deep learning verification for camera close-Up and head rotation paradigms'
     year: '2022'
