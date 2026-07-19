@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Esteban Rivera",
-    "label": "PhD Student working in efficient computer vision for autonomous driving",
+    "Bachelor": "Electronic Engineering and Physics",
     "email": "es.rivera1202@gmail.com",
     "phone": "+49 0176 841 598 66",
     "url": "",
-    "summary": "I am a PhD Student working in efficient computer vision for autonomous driving. I have experience transforming research ideas into real projects.",
+    "summary": "Engineer with passion for Research. I have experience transforming research ideas into real projects.",
     "location": {
       "city": "Munich",
       "countryCode": "DE",
@@ -14,11 +14,24 @@
     "profiles": []
   },
   "work": [
+        {
+      "name": "AVES Realizy GmbH",
+      "position": "Senior Machine Learning Engineer",
+      "startDate": "2026-06",
+      "endDate": "Present",
+      "summary": "Automated HD Maps for AVES Launcher",
+      "highlights": [
+        "Responsible for Machine Learning developemnt",
+        "Setted up a MLOps pipeline for training and deploying models",
+        "Research for developing new products based on Computer Vision and Machine Learning"
+      ],
+      "location": "Munich, Germany"
+    },
     {
       "name": "Technische Universität München",
       "position": "Research Associate",
       "startDate": "2022-10",
-      "endDate": "Present",
+      "endDate": "2026-2",
       "summary": "EDGAR Project: Autonomous Driving for urban traffic",
       "highlights": [
         "Responsible for Camera/LiDAR-based object detection",

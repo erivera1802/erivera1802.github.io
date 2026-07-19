@@ -2,11 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I have taught at TUM
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+{% for course in site.courses %}
+  {% if course.nav %}
+    <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
+  {% endif %}
+{% endfor %}
 
-Organize your courses by years, topics, or universities, however you like!
+<div class="courses">
+  {% assign sorted_courses = site.courses | sort: "importance" %}
+  {% for course in sorted_courses %}
+    <div class="course-item">
+      <h3>
+        <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
+      </h3>
+      <p class="course-description">{{ course.description }}</p>
+    </div>
+  {% endfor %}
+</div>

@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - erivera1802/VESPA
   - erivera1802/edgar2Nuscenes
   - erivera1802/visualization_nuscenes
   - erivera1802/automatedPointcloudLabeling
