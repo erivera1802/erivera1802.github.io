@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Courses I have taught at TUM",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -70,6 +70,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "courses-autonomous-vehicle-perception",
+          title: 'Autonomous Vehicle Perception',
+          description: "Course on perception systems for autonomous driving",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/autonomous-vehicle-perception/";
             },},{id: "news-started-my-phd-at-the-institute-of-automotive-engineering-in-tum",
           title: 'Started my PhD at the institute of Automotive Engineering in TUM',
           description: "",
@@ -87,6 +92,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-arrived-in-delft-for-a-research-exchange-in-the-intellligent-vehicles-group-with-prof-holger-caesar",
           title: 'Arrived in Delft for a research exchange in the Intellligent Vehicles Group with...',
+          description: "",
+          section: "News",},{id: "news-started-a-new-position-as-senior-machine-learning-engineer-in-aves-reality-i-will-be-working-on-automated-hd-maps-from-satellite-images",
+          title: 'Started a new position as Senior Machine Learning Engineer in AVES Reality. I...',
+          description: "",
+          section: "News",},{id: "news-back-on-cvpr-to-present-my-paper-vespa-on-3d-autolabeling-for-autonomous-driving-as-the-last-paper-of-my-phd",
+          title: 'Back on CVPR to present my paper VESPA on 3D Autolabeling for Autonomous...',
           description: "",
           section: "News",},{id: "projects-edgar",
           title: 'EDGAR',
