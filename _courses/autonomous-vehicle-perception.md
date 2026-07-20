@@ -15,7 +15,9 @@ nav: false
 
 ## Course Description
 
-This course covers the fundamental and advanced topics in perception systems for autonomous vehicles, including sensor fusion, object detection, and scene understanding.
+This course covers the fundamental and advanced topics in perception
+systems for autonomous vehicles, including sensor fusion, object detection,
+and scene understanding.
 
 ## Topics Covered
 
