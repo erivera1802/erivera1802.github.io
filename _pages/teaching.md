@@ -8,9 +8,9 @@ nav_order: 6
 ---
 
 {% for course in site.courses %}
-  {% if course.nav %}
-    <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
-  {% endif %}
+{% if course.nav %}
+<a href="{{ course.url | relative_url }}">{{ course.title }}</a>
+{% endif %}
 {% endfor %}
 
 <div class="courses">

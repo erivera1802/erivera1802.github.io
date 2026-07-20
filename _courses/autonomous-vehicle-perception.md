@@ -29,4 +29,4 @@ and scene understanding.
 
 ## Course Materials
 
-*Add links to syllabus, slides, and resources here*
+_Add links to syllabus, slides, and resources here_
